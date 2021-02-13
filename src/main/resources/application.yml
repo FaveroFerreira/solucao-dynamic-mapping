@@ -1,0 +1,29 @@
+
+csv.property-order:
+  addressName: 0
+  addressNumber: 1
+  addressComplement: 2
+  cep: 3
+  city: 4
+  district: 5
+  latitude: 6
+  longitude: 7
+  mcc: 8
+  cnae: 9
+  nameContact: 10
+  presumedRevenue: 11
+  responsibleName: 12
+  segment: 13
+  phone: 14
+  trademark: 15
+  portfolioCode: 16
+  routeNumber: 17
+  routeActivityNumber: 18
+  cnpj: 19
+  personType: 20
+  customerOrigin: 21
+  clientSituation: 22
+  alertType: 23
+  isPagsClient: 24
+  biggestRevenue: 25
+  biggestRevenueDate: 26
