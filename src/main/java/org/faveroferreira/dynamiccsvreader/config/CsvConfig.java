@@ -11,6 +11,9 @@ import java.util.Map;
 @ConfigurationProperties(prefix = "csv")
 public class CsvConfig {
 
-    Map<String, Integer> propertyOrder;
+    private Map<String, Integer> propertyOrder;
+
+    private String regex;
+
 
 }
